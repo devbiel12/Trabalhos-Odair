@@ -1,0 +1,4 @@
+1° Primeiro coloque quantos cigarros você fuma por dia
+2° Coloque a quantos anos você fuma 
+3° A realização do calculo de dias perdidos é (Cigarros * anos * 365 * 10) / (24 * 60)
+4° Mostra na tela a quantidade de Dias perdidos

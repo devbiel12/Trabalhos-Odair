@@ -1,0 +1,7 @@
+Ordenação de Números
+
+1° Vão ser gerados números aleatórios entre 0 e 99 com um tamanho de lista de 20 números
+2° Vão ser armazenados no vetor
+3° Mostre os numeros gerados
+4° Uma lista mostra os numeros gerados e na outra usando o arrays.sort, que é usado para ordenar usando as ordenações implementados na função
+5° Mostre outra lista, onde aparece os números ordenados em ordem crescente

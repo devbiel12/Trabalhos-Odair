@@ -1,0 +1,3 @@
+1º Solicitar que o usuario digite um nome e um valor inteiro
+2º Realizar o calculo 8 * 25 * valor inteiro
+3º Imprimir na tela o resultado

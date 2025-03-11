@@ -1,0 +1,8 @@
+Fibonacci
+
+1° Fibonacci vai mostrar os 10 primeiros termos
+2° O fibonacci inicia com a igual 1, b igual 1 e c;
+3° Ele verifica se o i = 2; se i for menor que 10; acrescente mais 1 em i
+4° O for é usado para calcular os termos usando o C igual A mais B
+5° O programa vai comparando o A igual B e B igual C
+6° Mostre os 10 primeiros termos de Fibonacci

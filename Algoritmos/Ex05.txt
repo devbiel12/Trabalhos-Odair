@@ -1,0 +1,4 @@
+1° Solicitar um número decimal do usuário
+2° Solicitar um segundo número decimal do usuário
+3° somar os dois números e dividir por 2
+4° imprimir na tela o resultado do cálculo

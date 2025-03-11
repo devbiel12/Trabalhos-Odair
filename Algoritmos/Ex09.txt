@@ -1,0 +1,3 @@
+1º Solicitar que o usuario digite um valor em reais
+2º Dividir esse valor digitado por 5,71
+3º Imprimir na tela o resultado da operação

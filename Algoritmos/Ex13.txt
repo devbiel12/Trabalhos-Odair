@@ -1,0 +1,3 @@
+1º Solicitar um nome e um valor
+2º Somar ao valor 15% dele mesmo
+3º Imprimir na tela o resultado

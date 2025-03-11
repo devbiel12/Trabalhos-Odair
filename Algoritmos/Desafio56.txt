@@ -1,0 +1,14 @@
+Adivinhar o numero de 1 a 10
+
+1° Escreva um numero de 1 a 10
+2° O usuário tem 4 tentativas para acertar 
+3° Caso o número escolhido não seja entre o 1 ou 10
+4° mostre 'Número inválido, insira um número entre 1 e 10.' e mostre quantas tentativas faltam
+5° Se o numero escolhido pelo usuário for menor que e o numero escolhido
+6° mostre "Tentativa errada! O número é maior." e mostre quantas tentativas faltam
+7° Se o numero escolhido pelo usuário for maior que e o numero escolhido
+8° mostre "Tentativa errada! O número é menor." e mostre quantas tentativas faltam
+9° Se você não acertou em 4 tentativas 
+10° Mostre "Suas tentativas acabaram! O número era " + Numero sorteado + "."
+11° Caso tenha acertado nas quatro tentativas 
+12° Mostre "Parabéns! Você acertou o número!"

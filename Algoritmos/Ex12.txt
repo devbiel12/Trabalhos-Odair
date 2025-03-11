@@ -1,0 +1,3 @@
+1º Solicitar o nome do produto e o valor dele
+2º Subtrair do valor 5% dele mesmo
+3º Imprimir na tela o resultado

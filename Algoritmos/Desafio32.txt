@@ -1,0 +1,11 @@
+Sorteio
+
+1° Peça para o jogador escolher entre 1 e 5
+2° Se o jogador selecionar um numero menor que 1 ou maior que 5
+3° mostre 'Numero invalido, insira um numero de 1 a 5'
+4° Se o usuario selecionar um numero e ele for menor que o numero sorteado 
+5° mostre 'Tentativa errada, o número é maior' 
+6° Se o usuario selecionar um numero maior que o numero sorteado
+7° mostre 'Tentativa errada, o numero é menor'
+8° Se ele acertar o numero sorteado
+9° mostre 'Parabéns, você acertou o número' 

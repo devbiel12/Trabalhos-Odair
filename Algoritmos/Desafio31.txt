@@ -1,0 +1,12 @@
+Jokenpo
+
+1° Defina os valores das variaveis Pedra, Papel e Tesoura 
+2° Pedra vai ser 0, Papel vai ser 1 e Tesoura sera 2
+3° Depois de definir os valores e peça para o usuário escolher entre as opções do jogo
+4° Se usuario selecionar menor que 0 ou Usuario selecionar maior que 2
+5° Escolha Inválida 
+6° Mostre a opção que o usuário e o Robô escolheram 
+7° Se o valor do usuario e do Robo forem iguais deu empate 
+8° Se o Usuario escolheu pedra e o robo Tesouro ou usuario escolheu papel e o robo pedra ou usuario escolheu Tesoura e o robo papel
+9° O Usuario ganha
+10° Se não for nenhuma dessas, o Robo ganha 

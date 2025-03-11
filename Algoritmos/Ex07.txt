@@ -1,0 +1,4 @@
+1º Solicitar ao usuario que escreva um numero
+2º Multiplicar esse numero digitado por 2 e armazena-lo
+3º Dividir esse numero digitado por 3 e armazena-lo em outro campo
+4º Imprimir na tela o numero, o resultado da multiplicação e o resultado da divisão.

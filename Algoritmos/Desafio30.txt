@@ -1,0 +1,10 @@
+Tipo de Triângulo
+
+1° Informe as retas 1,2 e 3
+2° Se Reta 1 + Reta 2 é maior que Reta 3 E Reta 1 + Reta 3 maior que Reta 2 E Reta 2 + Reta 3 maior que Reta 1
+3° É possivel fazer um triângulo
+4° Se as retas do triângulo forem Reta 1 igual Reta 2 E Reta 2 igual Reta 3
+5° Ele é um Triângulo Equilátero
+6° Se as retas forem Reta 1 igual Reta 2 ou Reta 1 igual Reta 3 ou Reta 2 igual Reta 3
+7° Ele é um triângulo Isósceles 
+8° Se não for nenhum desses, ele é um triângulo Escaleno  

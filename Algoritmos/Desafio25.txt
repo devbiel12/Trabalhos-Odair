@@ -1,0 +1,4 @@
+1° Coloque as Retas 1,2 e 3
+2° Se Reta 1 + Reta 2 é maior que Reta 3 E Reta 1 + Reta 3 maior que Reta 2 E Reta 2 + Reta 3 maior que Reta 1
+3° É possível fazer um triângulo
+4° Se não for, não é possível fazer o triângulo

@@ -1,0 +1,3 @@
+1º Solicitar ao usuario um valor decimal e um valor inteiro
+2º Fazer o calculo: 90*valor inteiro + 0.20*valor_decimal
+3º Imprimir na tela o resultado

@@ -1,0 +1,2 @@
+1º Solicitar que o usuario digite um nome
+2º Imprimir na tela o nome do usuário junto a uma mensagem de Boas Vindas

@@ -1,0 +1,4 @@
+1º Solicitar que o usuário digite um valor para a largura e um para a altura
+2º Multiplicar o valor de largura pela altura e armazena-lo
+3º Dividir o resultado da multiplicação por 2
+4º Imprimir o resultado da multiplicação e o resultado da divisão

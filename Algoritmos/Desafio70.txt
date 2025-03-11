@@ -1,0 +1,9 @@
+Progressão Aritmética
+
+1° Digite o Primeiro termo da PA
+2° Digite a razão da PA
+3° O calculo para achar os 10 primeiro termos da PA é i igual 0, se i for menor que 10; acrescente mais 1 em i
+4° calcule o termo usando o primeiro termo mais (i vezes razão)
+5° Some esse termo ao total
+6° mostre "Soma de todos os termos: " + soma
+7° Repita até dar os 10 termos 

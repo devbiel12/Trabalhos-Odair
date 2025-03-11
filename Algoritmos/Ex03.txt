@@ -1,0 +1,3 @@
+1º Solicitar que o usuario digite um nome
+2º Solicitar que o usuario digite um salario
+3º Imprimir na tela o nome e salario do funcionario

@@ -1,0 +1,9 @@
+Fibonacci Usuario 
+
+1° Peça para o usuário inserir um número maior que zero
+2° Caso o numero for maior que zero o código continua, se for menor
+3° Exiba a mensagem 'Por favor, insira um número maior que 0.' e encerre o código 
+4° Inicie os primeiros dois termnos da sequência como 1
+5° Exiba os termos ( 1 e 1 ) se Numero for mair que 1
+6° Mostre os próximos termos da sequência até alcançar a quantidade inserida
+7° Mostre 'FIM' para mostrar que acabou

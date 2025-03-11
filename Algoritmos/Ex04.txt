@@ -1,0 +1,4 @@
+1° Solicitar um número inteiro do usuário
+2° Solicitar um segundo número inteiro do usuário
+3° somar os dois números
+4° imprimir na tela o resultado da soma

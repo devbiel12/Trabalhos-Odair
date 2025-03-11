@@ -1,0 +1,3 @@
+1° Solicitar um número inteiro ao usuário
+2° Somar 1 ao número digitado e armazena-lo e subtrair o número digitado por 1 e armazena-lo
+3° imprimir na tela os dois valores armazenados
